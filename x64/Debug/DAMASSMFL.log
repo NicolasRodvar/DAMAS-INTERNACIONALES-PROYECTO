@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Surface\source\repos\DAMASSMFL\DAMASSMFL\menu.h(12,26): warning C4566: el carácter representado por el nombre de carácter universal '\u274C' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\Surface\source\repos\DAMASSMFL\DAMASSMFL\menu.h(19,26): warning C4566: el carácter representado por el nombre de carácter universal '\u26A0' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\Surface\source\repos\DAMASSMFL\DAMASSMFL\menu.h(19,26): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\Surface\source\repos\DAMASSMFL\DAMASSMFL\menu.h(70,42): warning C4566: el carácter representado por el nombre de carácter universal '\u2705' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\Surface\source\repos\DAMASSMFL\DAMASSMFL\menu.h(74,42): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F4DC' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\Surface\source\repos\DAMASSMFL\DAMASSMFL\menu.h(81,42): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F44B' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "main.cpp")
+  
+  DAMASSMFL.vcxproj -> C:\Users\Surface\source\repos\DAMASSMFL\x64\Debug\DAMASSMFL.exe
